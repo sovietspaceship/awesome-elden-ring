@@ -22,8 +22,8 @@ Curated list of resources and tools for Elden Ring (1.04)
 -   [Basscannon90's Poise Breakpoints](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit#gid=0)
 -   [Scaling Data](https://docs.google.com/spreadsheets/d/1zoJIRmr-00XC1Rd-SwIpeNoHNpehY2kRHoh-4WeACxc/edit#gid=507492505) Scaling tables and graphs by weapon and affinity
 -   [redlight's Misc Stats Breapoints, Poise and Talismans](https://docs.google.com/document/d/12XZrmilWzhT7jhrNSlef9WYo2X0GDaMcruIx90vabTQ/edit)
--   [Vigor/Mind/Endurance](https://docs.google.com/spreadsheets/d/1bsi5OOMfuBma4e0c-FSxiofAitOeDpvruQphBRF-Los/edit#gid=0)
--   [Flask / Armour and Weapon Effects / Status Effects / Misc](https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit#gid=1484010494) Lots of data for pvp and pve
+-   [Vigor/Mind/Endurance](https://docs.google.com/spreadsheets/d/1bsi5OOMfuBma4e0c-FSxiofAitOeDpvruQphBRF-Los/edit#gid=0) Scaling, softcaps and graphs for vigor, mind and endurance
+-   [Miscellaneous Data](https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit#gid=1484010494) Status damage; armour, weapon, talisman, consumable and physick effects; flasks upgrades; misc PvE scaling
 -   [Frame Data](https://docs.google.com/spreadsheets/d/1YZJ3tohmnveFg8wgEK15nqBklSeXogZXHczOFh_PCoc/edit#gid=0) Weapon attack frame data
 -   [Ash of War Compatibility](https://docs.google.com/spreadsheets/d/1BTwjJaSX8iEK7TjUi0TbCY34apgH_028_a_j2XcITqY/edit#gid=1383691957) AoW affinities + compatibility by weapon class
 -   [toddforklift's ToughnessParam](https://docs.google.com/spreadsheets/d/11rRg9HDmw_HmHxWdeqN6grzdYYELoBDGMvNNja9NJRI/edit#gid=453229723) Hyperarmour
