@@ -13,7 +13,7 @@ Curated list of resources and tools for Elden Ring (1.04)
 -   [Cryptid Tracker's Attack Rating Calculator](https://docs.google.com/spreadsheets/d/1q8GBymIayKbQivML-k8yCzUSYGm8YWSFGetIH8mDrbQ/edit#gid=355878972) Standalone attack calculator
 -   [SleepMoover's Poise Optimiser](https://docs.google.com/spreadsheets/d/1pQsSPWTfKk8qxKld0l7ZEzdg8whp0orHFYAwnzb4-hI/edit#gid=1465151196)
 -   [Cryptid Tracker's Optimal Casting Catalyst Calculator](https://docs.google.com/spreadsheets/d/1gMSZcztxMaSCP35xhqTgj05XGSo_OXyGYlxPwA6Gws4/edit#gid=0)
--   [mugenmonkey's Starting Class Optimizer](https://mugenmonkey.com/eldenring) Find optimal starting class for your started stats
+-   [mugenmonkey's Starting Class Optimizer](https://mugenmonkey.com/eldenring) Find optimal starting class for your target stats
 -   [SlugBot](https://slugbot.github.io/web/index.html) Discord and Twitch bot with various utilities
 
 ## Reference Sheets
