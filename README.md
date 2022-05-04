@@ -13,7 +13,7 @@ Curated list of resources and tools for Elden Ring (1.04)
 -   [Cryptid Tracker's Attack Rating Calculator](https://docs.google.com/spreadsheets/d/1q8GBymIayKbQivML-k8yCzUSYGm8YWSFGetIH8mDrbQ/edit#gid=355878972) Standalone attack calculator
 -   [SleepMoover's Poise Optimiser](https://docs.google.com/spreadsheets/d/1pQsSPWTfKk8qxKld0l7ZEzdg8whp0orHFYAwnzb4-hI/edit#gid=1465151196)
 -   [Cryptid Tracker's Optimal Casting Catalyst Calculator](https://docs.google.com/spreadsheets/d/1gMSZcztxMaSCP35xhqTgj05XGSo_OXyGYlxPwA6Gws4/edit#gid=0)
--   [mugenmonkey's Strting Class Optimizer](https://mugenmonkey.com/eldenring) Find optimal starting class for your started stats
+-   [mugenmonkey's Starting Class Optimizer](https://mugenmonkey.com/eldenring) Find optimal starting class for your started stats
 -   [SlugBot](https://slugbot.github.io/web/index.html) Discord and Twitch bot with various utilities
 
 ## Reference Sheets
@@ -25,7 +25,7 @@ Curated list of resources and tools for Elden Ring (1.04)
 -   [Vigor/Mind/Endurance](https://docs.google.com/spreadsheets/d/1bsi5OOMfuBma4e0c-FSxiofAitOeDpvruQphBRF-Los/edit#gid=0)
 -   [Flask / Armour and Weapon Effects / Status Effects / Misc](https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit#gid=1484010494) Lots of data for pvp and pve
 -   [Frame Data](https://docs.google.com/spreadsheets/d/1YZJ3tohmnveFg8wgEK15nqBklSeXogZXHczOFh_PCoc/edit#gid=0) Weapon attack frame data
--   [Ash of War Compatibility](https://docs.google.com/spreadsheets/d/1BTwjJaSX8iEK7TjUi0TbCY34apgH_028_a_j2XcITqY/edit#gid=1383691957) AOW affinities + compatibility by weapon class
+-   [Ash of War Compatibility](https://docs.google.com/spreadsheets/d/1BTwjJaSX8iEK7TjUi0TbCY34apgH_028_a_j2XcITqY/edit#gid=1383691957) AoW affinities + compatibility by weapon class
 -   [toddforklift's ToughnessParam](https://docs.google.com/spreadsheets/d/11rRg9HDmw_HmHxWdeqN6grzdYYELoBDGMvNNja9NJRI/edit#gid=453229723) Hyperarmour
 
 ## Modding and data mining
