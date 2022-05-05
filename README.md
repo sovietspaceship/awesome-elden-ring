@@ -19,6 +19,7 @@ Curated list of resources and tools for Elden Ring (1.04)
 
 ## Reference Sheets
 
+-   [Attack IDs](https://docs.google.com/spreadsheets/d/13v1L2Jn_LoCEVfCm5E5blM0_CEtecTAJyGhjerlKI2A/edit#gid=1875679859)
 -   [Ash of War Compatibility](https://docs.google.com/spreadsheets/d/1BTwjJaSX8iEK7TjUi0TbCY34apgH_028_a_j2XcITqY/edit#gid=1383691957) AoW affinities + compatibility by weapon class
 -   [Basscannon90's Poise Breakpoints](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit#gid=0)
 -   [Frame Data](https://docs.google.com/spreadsheets/d/1YZJ3tohmnveFg8wgEK15nqBklSeXogZXHczOFh_PCoc/edit#gid=0) Weapon attack frame data
@@ -26,6 +27,7 @@ Curated list of resources and tools for Elden Ring (1.04)
 -   [Miscellaneous Data](https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit#gid=1484010494) Status damage; armour, weapon, talisman, consumable and physick effects; flasks upgrades; misc PvE scaling
 -   [Motion Values and Attack Data](https://docs.google.com/spreadsheets/d/1j4bpTbsnp5Xsgw9TP2xv6d8R4qk0ErpE9r_5LGIDraU/edit#gid=0)
 -   [NPC Data](https://docs.google.com/spreadsheets/d/1aujq95UfL_oUs3voPt3nGqM1hLhaVJOj6JKB6Np3FD8/edit#gid=815651584)
+-   [Parry + iFrame Data](https://docs.google.com/spreadsheets/d/1Hgqmd7FgKbrfPA6Zqu7kobDlVMbNcIj24QLGzztrIFQ/edit#gid=1088082349)
 -   [redlight's Misc Stats Breapoints, Poise and Talismans](https://docs.google.com/document/d/12XZrmilWzhT7jhrNSlef9WYo2X0GDaMcruIx90vabTQ/edit)
 -   [Scaling Data](https://docs.google.com/spreadsheets/d/1zoJIRmr-00XC1Rd-SwIpeNoHNpehY2kRHoh-4WeACxc/edit#gid=507492505) Scaling tables and graphs by weapon and affinity
 -   [toddforklift's ToughnessParam](https://docs.google.com/spreadsheets/d/11rRg9HDmw_HmHxWdeqN6grzdYYELoBDGMvNNja9NJRI/edit#gid=453229723) Hyperarmour
