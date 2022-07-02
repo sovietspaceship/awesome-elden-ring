@@ -1,6 +1,6 @@
 # awesome-elden-ring
 
-Curated list of resources and tools for Elden Ring (1.04)
+Curated list of resources and tools for Elden Ring (1.05)
 
 ## Build Planners
 
@@ -11,7 +11,6 @@ Curated list of resources and tools for Elden Ring (1.04)
 ## Calculators
 
 -   [Cryptid Tracker's Attack Rating Calculator](https://docs.google.com/spreadsheets/d/1q8GBymIayKbQivML-k8yCzUSYGm8YWSFGetIH8mDrbQ/edit#gid=355878972) Standalone attack calculator
--   [Cryptid Tracker's Optimal Casting Catalyst Calculator](https://docs.google.com/spreadsheets/d/1gMSZcztxMaSCP35xhqTgj05XGSo_OXyGYlxPwA6Gws4/edit#gid=0)
 -   [Fall Damage Calculator](https://docs.google.com/spreadsheets/d/13i-trk7eewj15mjvmOcBWWmFsRNcuhncCV7jzD_Rh_o/copy)
 -   [mugenmonkey's Starting Class Optimizer](https://mugenmonkey.com/eldenring) Find optimal starting class for your target stats
 -   [SleepMoover's Poise Optimiser](https://docs.google.com/spreadsheets/d/1pQsSPWTfKk8qxKld0l7ZEzdg8whp0orHFYAwnzb4-hI/edit#gid=1465151196)
@@ -51,7 +50,12 @@ Curated list of resources and tools for Elden Ring (1.04)
 
 ## Multiplayer
 
+-   [LukeYui's Seamless Coop Mod](https://www.nexusmods.com/eldenring/mods/510) Removes multiplayer barriers, allowing a playthrough to be completed in a single coop session; reimplements the game connectivity system, and unlocks the player limit
 -   [tremwil's SteamP2PInfo](https://github.com/tremwil/SteamP2PInfo) C# WPF application to show current Steam P2P connections and ping in any Steam game
+
+## PvE
+
+-   [Elden Ring Map](https://mapgenie.io/elden-ring/maps/the-lands-between)
 
 ## Contribute to this list
 
