@@ -1,6 +1,6 @@
 # awesome-elden-ring
 
-Curated list of resources and tools for Elden Ring (1.05)
+Curated list of resources and tools for Elden Ring (1.06)
 
 ## Build Planners
 
