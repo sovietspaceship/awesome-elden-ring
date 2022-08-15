@@ -21,7 +21,7 @@ Curated list of resources and tools for Elden Ring (1.05)
 -   [Ash of War Compatibility](https://docs.google.com/spreadsheets/d/1BTwjJaSX8iEK7TjUi0TbCY34apgH_028_a_j2XcITqY/edit#gid=1383691957) AoW affinities + compatibility by weapon class
 -   [Attack IDs](https://docs.google.com/spreadsheets/d/13v1L2Jn_LoCEVfCm5E5blM0_CEtecTAJyGhjerlKI2A/edit#gid=1875679859)
 -   [Basscannon90's Poise Breakpoints](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit#gid=0)
--   [Emilia's Frame Data Explorer](https://https://er-frame-data.nyasu.business/) PvP frame data visualiser
+-   [Emilia's Frame Data Explorer](https://er-frame-data.nyasu.business/) PvP frame data visualiser webapp
 -   [Frame Data](https://docs.google.com/spreadsheets/d/1YZJ3tohmnveFg8wgEK15nqBklSeXogZXHczOFh_PCoc/edit#gid=0) Weapon attack frame data
 -   [Item Data](https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit#gid=1415047826)
 -   [Miscellaneous Data](https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit#gid=1484010494) Status damage; armour, weapon, talisman, consumable and physick effects; flasks upgrades; misc PvE scaling
