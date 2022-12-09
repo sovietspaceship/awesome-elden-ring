@@ -1,6 +1,6 @@
 # awesome-elden-ring
 
-Curated list of resources and tools for Elden Ring (1.06)
+Curated list of resources and tools for Elden Ring (1.08)
 
 ## Build Planners
 
@@ -29,11 +29,12 @@ Curated list of resources and tools for Elden Ring (1.06)
 -   [Motion Values and Attack Data](https://docs.google.com/spreadsheets/d/1j4bpTbsnp5Xsgw9TP2xv6d8R4qk0ErpE9r_5LGIDraU/edit#gid=0)
 -   [NPC Data](https://docs.google.com/spreadsheets/d/1aujq95UfL_oUs3voPt3nGqM1hLhaVJOj6JKB6Np3FD8/edit#gid=815651584)
 -   [Parry + iFrame Data](https://docs.google.com/spreadsheets/d/1Hgqmd7FgKbrfPA6Zqu7kobDlVMbNcIj24QLGzztrIFQ/edit#gid=1088082349)
--   [redlight's Misc Stats Breapoints, Poise and Talismans](https://docs.google.com/document/d/12XZrmilWzhT7jhrNSlef9WYo2X0GDaMcruIx90vabTQ/edit)
+-   [redlight's Misc Stats Breapoints, Poise and Talismans](https://docs.google.com/document/d/12XZrmilWzhT7jhrNSlef9WYo2X0GDaMcruIx90vabTQ/edit) (*mostly outdated*)
 -   [Scaling Data](https://docs.google.com/spreadsheets/d/1zoJIRmr-00XC1Rd-SwIpeNoHNpehY2kRHoh-4WeACxc/edit#gid=507492505) Scaling tables and graphs by weapon and affinity
 -   [toddforklift's ToughnessParam](https://docs.google.com/spreadsheets/d/11rRg9HDmw_HmHxWdeqN6grzdYYELoBDGMvNNja9NJRI/edit#gid=453229723) Hyperarmour
 -   [Vigor/Mind/Endurance](https://docs.google.com/spreadsheets/d/1bsi5OOMfuBma4e0c-FSxiofAitOeDpvruQphBRF-Los/edit#gid=0) Scaling, softcaps and graphs for vigor, mind and endurance
 -   [Weapon Data](https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit#gid=1102808375)
+-   [Animation IDs](https://docs.google.com/spreadsheets/d/1acgSYG2SKFiZxnTKRPK31Cd9rdfz0CQULXqkdfVdR-U/edit#gid=0) (*outdated*)
 
 ## Modding and data mining
 
