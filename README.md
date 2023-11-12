@@ -1,12 +1,12 @@
 # awesome-elden-ring
 
-Curated list of resources and tools for Elden Ring (1.08)
+Curated list of community resources and tools for Elden Ring (1.10)
 
 ## Build Planners
 
 -   [Cryptid Tracker's Build Planner](https://docs.google.com/spreadsheets/d/19Op36P7gdVMkPzFQX6OsjZcfyUjdGOj7Cjk9qFAVj-U/copy) Build planner spreadsheet with various calculators
--   [eip's Build Planner](https://eip.gg/elden-ring/build-planner/) Web-based build planner
--   [Emilia's Inventory Tool](https://er-inventory.nyasu.business) Web-based and offline inventory manager
+-   [Emilia's Build & Inventory Tool](https://er-inventory.nyasu.business) Web-based build and inventory planner
+-   [eip's Build Planner](https://eip.gg/elden-ring/build-planner/) Simple web-based build planner
 
 ## Calculators
 
@@ -23,6 +23,7 @@ Curated list of resources and tools for Elden Ring (1.08)
 -   [Attack IDs](https://docs.google.com/spreadsheets/d/13v1L2Jn_LoCEVfCm5E5blM0_CEtecTAJyGhjerlKI2A/edit#gid=1875679859)
 -   [Basscannon90's Poise Breakpoints](https://docs.google.com/spreadsheets/d/1pHudihNsTW3LNP9-AqPKybhwyftl5QI1pD09kl986Ok/edit#gid=0)
 -   [Emilia's Frame Data Explorer](https://er-frame-data.nyasu.business/) PvP frame data visualiser webapp
+-   [Innate Poise Values](https://docs.google.com/spreadsheets/d/1pVyZi-Do3NAcfyMzwE2cTzHc5Yp99fSLuKt-X71JAss/edit#gid=0) Innate poise values for hyperarmour
 -   [Item Data](https://docs.google.com/spreadsheets/d/1x6LvzrqA9LWXPbzPZBDG8aL4N3Xc_ZxtEFMWpUxQj5c/edit#gid=1415047826)
 -   [Miscellaneous Data](https://docs.google.com/spreadsheets/d/1rfYfa5kcyoCuKgnS23dc8J8lLLTqWXsWtq9qG4TxT50/edit#gid=1484010494) Status damage; armour, weapon, talisman, consumable and physick effects; flasks upgrades; misc PvE scaling
 -   [Motion Values and Attack Data](https://docs.google.com/spreadsheets/d/1j4bpTbsnp5Xsgw9TP2xv6d8R4qk0ErpE9r_5LGIDraU/edit#gid=0)
@@ -33,12 +34,12 @@ Curated list of resources and tools for Elden Ring (1.08)
 -   [toddforklift's ToughnessParam](https://docs.google.com/spreadsheets/d/11rRg9HDmw_HmHxWdeqN6grzdYYELoBDGMvNNja9NJRI/edit#gid=453229723) Hyperarmour
 -   [Vigor/Mind/Endurance](https://docs.google.com/spreadsheets/d/1bsi5OOMfuBma4e0c-FSxiofAitOeDpvruQphBRF-Los/edit#gid=0) Scaling, softcaps and graphs for vigor, mind and endurance
 -   [Weapon Data](https://docs.google.com/spreadsheets/d/1ybiI1WgyRs67kGklUXeroi58KDab2KsU_hKutBORiW0/edit#gid=1102808375)
--   [Animation IDs](https://docs.google.com/spreadsheets/d/1acgSYG2SKFiZxnTKRPK31Cd9rdfz0CQULXqkdfVdR-U/edit#gid=0) (*outdated*)
 
 ## Modding and data mining
 
 -   [Luke Yui's Offline Launcher (No EAC)](https://www.nexusmods.com/eldenring/mods/98) Launch game for offline play without EAC
 -   [Meowmaritus's DS Anim Studio](https://www.patreon.com/Meowmaritus) Multi-game animation previewer and frame-based event metadata editor
+-   [DSMapStudio](https://github.com/soulsmods/DSMapStudio) Standalone map editor
 -   [soulsmods's Paramdex](https://github.com/soulsmods/Paramdex) ([ER](https://github.com/soulsmods/Paramdex/tree/master/ER)) Param-related resources
 -   [Atvaark's BinderTool](https://github.com/Atvaark/BinderTool) bdt, bhd, bnd, dcx, tpf, fmg and param unpacking tool
 -   [JKAnderson's SoulsFormat](https://github.com/JKAnderson/SoulsFormats) A .NET library for reading and writing FromSoftware file formats.
@@ -59,6 +60,11 @@ Curated list of resources and tools for Elden Ring (1.08)
 ## PvE
 
 -   [Elden Ring Map](https://mapgenie.io/elden-ring/maps/the-lands-between)
+
+## Discord Servers
+
+-  [Elden Ring PvP](https://discord.com/erpvp) PvP-oriented server with leaderboards, fight clubs and tourneys
+-  [?ServerName?](https://discord.gg/mT2JJjx) Server dedicated to modding
 
 ## Contribute to this list
 
