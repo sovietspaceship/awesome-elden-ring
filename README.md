@@ -7,6 +7,7 @@ Curated list of community resources and tools for Elden Ring (1.10)
 -   [Cryptid Tracker's Build Planner](https://docs.google.com/spreadsheets/d/19Op36P7gdVMkPzFQX6OsjZcfyUjdGOj7Cjk9qFAVj-U/copy) Build planner spreadsheet with various calculators
 -   [Emilia's Build & Inventory Tool](https://er-inventory.nyasu.business) Web-based build and inventory planner
 -   [eip's Build Planner](https://eip.gg/elden-ring/build-planner/) Simple web-based build planner
+-   [bobby's Random Build Generator](https://erbg.vercel.app) Web-based random build generator [repo](https://github.com/bobby-rust/erbg)
 
 ## Calculators
 
