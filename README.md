@@ -19,7 +19,7 @@ Curated list of community resources and tools for Elden Ring (1.10)
 
 ## Tools
 
-- [ER0000.sl2 Save Watcher](https://github.com/tvhdev/er-save-watcher) - A little Windows tool that watches your Elden Ring save file while you play and restores your last good checkpoint after death automatically
+- [.sl2 Save Watcher](https://github.com/tvhdev/er-save-watcher) - A little Windows tool that watches your Elden Ring save file while you play and restores your last good checkpoint after death automatically. No more running, more boss bashing!
 - [EldenRing Save Manager](https://github.com/Ariescyn/EldenRing-Save-Manager) - a Python save game editor
 
 ## Reference Sheets
