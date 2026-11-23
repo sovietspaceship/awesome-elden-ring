@@ -52,6 +52,7 @@ Curated list of community resources and tools for Elden Ring (1.10)
 ## Cheat Tables
 
 -   [The Grand Archives's Cheat Table](https://github.com/inunorii/Elden-Ring-CT-TGA) Elden Ring Cheat Engine table maintained by The Grand Archives.
+-   [ColoradoClimbr's Gideon's Ledger](https://github.com/ColoradoClimbr/gideons-ledger) Open-source offline trainer app (Python): runes, add any item, max HP/FP, no equip weight, smart drops, progress reader
 
 ## Multiplayer
 
